@@ -1,0 +1,1 @@
+"real_estate" nevű adatbázishoz importálandó az "ingatlanok" adattábla a program teszteléséhez
